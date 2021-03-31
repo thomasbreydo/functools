@@ -1,2 +1,2 @@
 # functools
-Get the name of a function during runtime.
+Get the name of a function at runtime.
